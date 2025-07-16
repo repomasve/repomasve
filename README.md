@@ -1,48 +1,75 @@
-<h1 align="center">Hi there! 👋 I'm [Your Name] 🌟</h1>
+<h1 align="center">✨ I'm Repomasve 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF79C6&center=true&vCenter=true&multiline=true&lines=Welcome+to+my+GitHub+Profile;Coding+%E2%9D%A4%EF%B8%8F+Open+Source;Let%27s+build+something+awesome!" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=6FC6E2&width=435&lines=Passionate+Developer+💻;Open+Source+Contributor+🌍;Tech+Enthusiast+🚀;Always+Learning+📚" alt="Typing SVG" />
+  <img src="https://i.pinimg.com/originals/28/dc/88/28dc88b3446550636e3399f430dc8c47.gif" width="300" />
 </p>
 
 ---
 
-### 🌟 About Me
-- 🔭 I’m currently working on **[Your Project Name](https://github.com/yourusername/project-name)**  
-- 🌱 I’m learning **[specific skills or technologies]**  
-- 💬 Ask me about **[your expertise or interests]**  
-- ⚡ Fun fact: **[a fun fact about you]**  
+## 🌸 About Me
+- 💻 Developer & Open Source Enthusiast
+- 🎨 Loves Anime, Pixel Art, and Tech
+- 🌱 Currently learning: *Frameworks, APIs*
 
 ---
 
-### 🛠️ Tech Stack  
-<p align="left">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&color=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB" alt="React" />
-</p>
-
----
-
-### 📈 GitHub Analytics  
+## 💠 Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,bootstrap,tailwind,nodejs,mysql,git,github" />
 </p>
 
 ---
 
-### 🌐 Connect With Me  
-<p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+## ✨ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=repomasve&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=repomasve&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=repomasve&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 🧩 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=repomasve&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🐾 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=repomasve&color=blueviolet&style=flat-square&label=Visitors" alt="Visitor Count" />
+</p>
+
+---
+
+## 🌌 Anime Corner
+> *"A real ninja is one who endures no matter what gets thrown at him... Let me show you what real pain is."* – Pain (Naruto)
+
+<p align="center">
+  <img src="https://media.tenor.com/mVYx1t8wM6YAAAAC/anime-sunset.gif" width="400" />
+</p>
+
+---
+
+## 🔗 Let's Connect
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://wa.me/yourphonenumber"><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20for%20visiting!%20✨&fontColor=fff&fontSize=30" />
 </p>
